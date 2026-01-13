@@ -32,3 +32,9 @@ Los datos procesados en BigQuery fueron exportados a **Looker Studio**, donde se
 * Lista de atletas con mayor impacto mediático por su rendimiento en la cancha.
 
 > **Nota técnica:** Los archivos `.sql` con las consultas completas se encuentran adjuntos en esta misma carpeta.
+>
+> ## 📘 Qué aprendí
+- Uso de datasets públicos en BigQuery
+- Escritura de consultas SQL para análisis exploratorio
+- Interpretación de resultados a partir de datos deportivos
+
