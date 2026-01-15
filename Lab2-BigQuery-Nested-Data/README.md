@@ -11,7 +11,7 @@ A diferencia de las bases de datos tradicionales que usan tablas puramente "plan
 2. **Campos Estructurados (STRUCT/RECORD):** Aprendí a navegar por campos que contienen otros campos dentro (como una carpeta que contiene archivos). Usé la sintaxis de punto (ej: `totals.pageviews`) para acceder a ellos.
 3. **Campos Repetidos (ARRAY):** Analicé cómo una sola fila puede contener múltiples valores (como una lista de productos vistos por un usuario en una misma sesión).
 4. **La función UNNEST:** Este fue el aprendizaje clave. Aprendí a usar `UNNEST` para "desglosar" o "desenrollar" las listas de datos repetidos y convertirlas en filas individuales para poder analizarlas.
-5. **Caso Práctico (Fila 19):** Analicé casos específicos donde una sola fila de evento contenía 8 artículos diferentes, entendiendo cómo BigQuery muestra esta información de manera agrupada.
+5. **Caso Práctico (Fila 19):** Analicé casos específicos donde una sola fila de evento contenía 9 artículos diferentes, entendiendo cómo BigQuery muestra esta información de manera agrupada.
 
 ## Herramientas utilizadas:
 * **Consola de Google Cloud**
