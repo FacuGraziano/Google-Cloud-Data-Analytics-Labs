@@ -75,14 +75,6 @@ Archivo SQL:sql/04_create_table_loans_with_region.sql
 
 Se accedió a campos **nested** dentro del registro `application` para obtener el propósito del préstamo.
 
-Archivo SQL:
-
----
-
-### 5. Extracción de datos anidados
-
-Se accedió a campos **nested** dentro del registro `application` para obtener el propósito del préstamo.
-
 Archivo SQL:sql/05_extract_loan_purpose.sql
 
 
