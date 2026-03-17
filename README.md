@@ -72,5 +72,6 @@ Analizar el estado de los préstamos para obtener insights sobre:
 ## 📬 Contacto
 
 * GitHub: https://github.com/FacuGraziano
+* Linkedin: www.linkedin.com/in/facundo-graziano-709b6436a
 
 ---
